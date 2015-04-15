@@ -10,7 +10,7 @@ public class BasicVectorOperations {
 	        vec.add("3rd");
 	        vec.add("Fourth");
 	        vec.add("fifth");
-	        vec.add(1,"fifth");
+	       
 		 System.out.println(vec);    
 		 System.out.println("" +vec.get(2));
 		 System.out.println("" +vec.get(3));      
